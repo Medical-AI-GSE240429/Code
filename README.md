@@ -48,8 +48,8 @@ BLEEP/
 ### 1. Clone the repository
 
 ```bash
-git clone [<your-repo-url>](https://github.com/Medical-AI-GSE240429/Code.git)
-cd BLEEP
+git clone https://github.com/Medical-AI-GSE240429/Code.git
+cd your_repo
 ```
 
 ### 2. Install dependencies
